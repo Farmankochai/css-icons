@@ -1,4 +1,4 @@
 # demo
-this is first repo.
+This is first repo.
 <br>
 Author- Farman maqbool
