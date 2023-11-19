@@ -5,9 +5,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-
-
 .popupicon {
   display: grid;
   height: 100%;
@@ -18,12 +15,10 @@
   place-items: center;
  
 }
-
 .wrapper {
   display: inline-flex;
   list-style: none;
 }
-
 .wrapper .icon {
   position: relative;
   background: #ffffff;
